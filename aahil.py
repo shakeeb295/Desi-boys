@@ -85,28 +85,28 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;95m╭━━━┳━━━┳╮╱╭┳━━┳╮
-\033[1;95m┃╭━╮┃╭━╮┃┃╱┃┣┫┣┫┃
-\033[1;96m┃┃╱┃┃┃╱┃┃╰━╯┃┃┃┃┃
-\033[1;96m┃╰━╯┃╰━╯┃╭━╮┃┃┃┃┃╱╭╮
-\033[1;92m┃╭━╮┃╭━╮┃┃╱┃┣┫┣┫╰━╯┃
-\033[1;92m╰╯╱╰┻╯╱╰┻╯╱╰┻━━┻━━━╯
-   \033[1;92m███████▒▒Welcome To A.creations▒▒████████
+\033[1;95m
+\033[1;95m
+\033[1;96m
+\033[1;96m
+\033[1;92m
+\033[1;92m
+   \033[1;92m███████▒▒Welcome To shakeeb.creations▒▒████████
 \033[1;95m♡╭──────────•◈•──────────╮♡\033[1;96mA.Creations\033[1;95m♡╭───•◈•───╮♡
-\033[1;94mAuthor\033[1;91m: \033[1;91mRana Aahil
+\033[1;94mAuthor\033[1;91m: \033[1;91mshakeeb
 \033[1;94mA.Rana\033[1;91m: \033[1;91▒▓██████████████]99.9
 \033[1;94mFacebook\033[1;91m: \033[1;91mAahilrana4072
 \033[1;94mWhatsapp\033[1;91m: \033[1;91m+786786786786
 \033[1;95m♡╰──────────•◈•──────────╯♡\033[1;96mA.CREATIONS\033[1;95m♡╰───•◈•───╯♡"""
-jalan('    \033[1;96m............AAHIL.CREATIONS...............:')
+jalan('    \033[1;96m............shakeeb.CREATIONS...............:')
 jalan("\033[1;95m   ┈┈┈STAY HOME   ☠️ ")
 jalan('\033[1;92m   ┈┈┈STAY SAFE   ☠️ ')
 jalan('\033[1;93m   ┈┈┈WASH YOUR HANDS  ☠️ ')
 jalan("\033[1;96m   ┈┈┈PRAY TO ALLAH  ❤ ")
 print "\033[1;91m♡─────────♡\033[1;96mLogin To A-C\033[1;95m♡──•◈•──╯♡"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = shakeeb
+CorrectPassword = shakeeb
 
 loop = 'true'
 while (loop == 'true'):
@@ -134,7 +134,7 @@ def login():
 		print logo
 		jalan(' \033[1;92mWarning: \033[1;96mDo Not Use Your Personal Account' )
 		jalan(' \033[1;92m   Note: \033[1;96mUse a New Account To Login & connect indonasian vpn' )
-		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mA.creations\033[1;95m♡─────•◈•───♡"
+		print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mshakeeb.creations\033[1;95m♡─────•◈•───♡"
 		print('	   \033[1;94m♡\x1b[1;91m■■■■■■LOGIN WITH FACEBOOK■■■■■■\x1b[1;94m♡' )
 		print('	' )
 		id = raw_input('\033[1;96m[+] \x1b[1;92mID/Email\x1b[1;95m: \x1b[1;96m')
@@ -417,8 +417,8 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mA.creations\033[1;95m♡───•◈•───────♡"
-	print "  \033[1;93m«---•◈•---Developed By RanaAahilr---•◈•---»" #Dev:love_hacker
+	print "\033[1;95m♡──────────•◈•──────────♡\033[1;96mshakeeb.creations\033[1;95m♡───•◈•───────♡"
+	print "  \033[1;93m«---•◈•---Developed By shakeebr---•◈•---»" #Dev:love_hacker
 	print '\033[1;91mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;95m"+str(len(cekpoint))
 	print """
@@ -428,10 +428,10 @@ def pilih_super():
             ║████████████100%  ║
             ╚════════════════╝
 ♡──────────────•◈•──────────────♡.
-: \033[1;96m .....ranaAahil A.creations............ \033[1;93m :
+: \033[1;96m .....shakeebl A.creations............ \033[1;93m :
 ♡──────────────•◈•──────────────♡.' 
                 whatsapp Num
-               +786786786786"""
+               q btao"""
 	
 	raw_input("\n\033[1;92m[\033[1;94mBack\033[1;96m]")
 	menu()
